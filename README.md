@@ -2,11 +2,8 @@
 <div align="center">
   
   <!-- Animation de texte -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=💚+Data+Science+%26+AI+Enthusiast;🤖+Machine+Learning+Engineer;📊+BI+Analytics+%26+Insights;🚀+RAG+%26+LLM+Innovator" 
-    alt="Typing animation" 
-  />
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4C8&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Enthusiast;BI+Analytics+%26+Insights" alt="Typing Animation">
+
 </div>
 
 ---
@@ -15,9 +12,9 @@
 
 ## 🌟 Bienvenue ! Je suis **Olivia Adamah**
 
-**Master à l'Université de Strasbourg** | **Data Scientist in Making** 🚀
+**Data Scientist in Making** 🚀
 
-Passionnée par transformer les données en intelligence artificielle | Spécialisée en Machine Learning, BI Analytics & Technologies d'IA avancées
+Passionnée par la science des données et l'intelligence artificielle | Spécialisée en Machine Learning, BI Analytics & Technologies d'IA avancées
 
 </div>
 
@@ -38,9 +35,9 @@ Passionnée par transformer les données en intelligence artificielle | Spécial
 
 ## 👨‍💼 À Propos de Moi
 
-Étudiante en Master à l'**Université de Strasbourg**, je suis une passionnée de **Data Science** et **Intelligence Artificielle**. Mon expertise couvre l'intégralité du pipeline data : de l'exploration et l'analyse à la mise en production de modèles ML sophistiqués.
+Étudiante en dernière année de Master à l'**Université de Strasbourg**, mon expertise couvre l'intégralité du pipeline data : de l'exploration et l'analyse à la mise en production de modèles ML sophistiqués.
 
-**🎯 Mon objectif** : Devenir **Data Scientist** et créer des solutions d'IA qui transforment les données complexes en insights actionnables et en innovations technologiques.
+**🎯 Mon objectif** : Devenir **Data Scientist** et créer des solutions d'IA qui transforment les données complexes en insights.
 
 **🔍 Mes domaines de spécialisation** :
 - 📊 **Data Science & Machine Learning** - Exploration, analyse prédictive, modèles ML
@@ -134,22 +131,8 @@ Retrouve tous mes projets dans ma liste de repositories ! Chaque projet démontr
 
 ---
 
-## 📊 Statistiques GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aivilo-adamah&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aivilo-adamah&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 <div align="center">
-
-### ⭐ N'hésite pas à explorer mes repositories et à me suivre pour les derniers projets !
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aivilo-adamah.aivilo-adamah&left_color=green&right_color=red)
-
-</div>
