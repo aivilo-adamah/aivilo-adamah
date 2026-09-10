@@ -2,20 +2,16 @@
 <div align="center">
   
   <!-- Animation de texte -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI;BI+Analytics+%26+Insights;"
-    alt="Typing animation" 
-  />
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4C8&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Enthusiast;BI+Analytics" alt="Typing Animation">
 </div>
 
 ---
 
 ## 👋 Bienvenue ! Je suis **Olivia Adamah**
 
-Master à l'Université de Strasbourg | Data Scientist in Making 🚀
+Data Scientist in Making 🚀
 
-Passionnée par transformer les données en intelligence artificielle et créer des solutions d'IA innovantes.
+Je suis passionnée par la science des données et l'intelligence artificielle.
 
 ---
 
@@ -35,7 +31,7 @@ Passionnée par transformer les données en intelligence artificielle et créer 
 
 Étudiante en Master à l'Université de Strasbourg, je suis passionnée par la Data Science et l'Intelligence Artificielle. Mon expertise couvre l'intégralité du pipeline data : de l'exploration et l'analyse prédictive jusqu'au déploiement de solutions ML en production.
 
-**Mon objectif** : Devenir Data Scientist et créer des solutions d'IA qui transforment les données complexes en insights actionnables et en innovations technologiques.
+**Mon objectif** : Devenir Data Scientist et créer des solutions d'IA qui transforment les données complexes en insights.
 
 **Mes domaines de spécialisation** :
 - 📊 Data Science & Machine Learning
