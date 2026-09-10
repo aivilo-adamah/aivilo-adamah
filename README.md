@@ -1,8 +1,12 @@
 <!-- Header animé avec gradient -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF7F&center=true&width=600&lines=💚+Data+Science+%26+AI+Enthusiast;🤖+Machine+Learning+Engineer;📊+BI+Analytics+%26+Insights;🚀+RAG+%26+LLM+Innovator" alt="Typing animation" />
-
+  <!-- Animation de texte -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=💚+Data+Science+%26+AI+Enthusiast;🤖+Machine+Learning+Engineer;📊+BI+Analytics+%26+Insights;🚀+RAG+%26+LLM+Innovator" 
+    alt="Typing animation" 
+  />
+  
 </div>
 
 ---
