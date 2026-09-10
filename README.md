@@ -1,79 +1,151 @@
-# 👋 Bienvenue sur mon profil !
+<!-- Header animé avec gradient -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF7F&center=true&width=600&lines=💚+Data+Science+%26+AI+Enthusiast;🤖+Machine+Learning+Engineer;📊+BI+Analytics+%26+Insights;🚀+RAG+%26+LLM+Innovator" alt="Typing animation" />
 
-Je suis **Olivia Adamah**, étudiante en Master à l'Université de Strasbourg, passionnée par la **Data Science** et l'**Intelligence Artificielle**.
+</div>
 
 ---
 
-## 🎯 À propos de moi
+<div align="center">
 
-Futurs **Data Scientist** avec une expertise en analyse de données, machine learning et intelligence artificielle. Je suis passionnée par la transformation de données complexes en insights actionnables et le développement de solutions d'IA innovantes.
+## 🌟 Bienvenue ! Je suis **Olivia Adamah**
 
-💡 **Objectif professionnel** : Devenir Data Scientist et créer des solutions d'IA impactantes
+**Master à l'Université de Strasbourg** | **Data Scientist in Making** 🚀
 
-📍 **Localisation** : Strasbourg, France
+Passionnée par transformer les données en intelligence artificielle | Spécialisée en Machine Learning, BI Analytics & Technologies d'IA avancées
+
+</div>
+
+---
+
+## 📞 Contacts & Réseaux
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olivia-adamah)](https://www.linkedin.com/in/olivia-adamah)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://votre-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivilo-adamah)
+
+</div>
+
+---
+
+## 👨‍💼 À Propos de Moi
+
+Étudiante en Master à l'**Université de Strasbourg**, je suis une passionnée de **Data Science** et **Intelligence Artificielle**. Mon expertise couvre l'intégralité du pipeline data : de l'exploration et l'analyse à la mise en production de modèles ML sophistiqués.
+
+**🎯 Mon objectif** : Devenir **Data Scientist** et créer des solutions d'IA qui transforment les données complexes en insights actionnables et en innovations technologiques.
+
+**🔍 Mes domaines de spécialisation** :
+- 📊 **Data Science & Machine Learning** - Exploration, analyse prédictive, modèles ML
+- 📈 **BI & Analytics** - Dashboards, visualisations, KPIs business
+- 🤖 **Intelligence Artificielle Avancée** - RAG, LLM, Prompt Engineering
+- 🔬 **Deep Learning** - CNN, RNN, architectures neuronales
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-### **Langages de programmation**
+### 💻 **Langages de Programmation**
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### **Data Science & Machine Learning**
-- **Libraries** : Pandas, NumPy, Scikit-learn
-- **Deep Learning** : TensorFlow, PyTorch
-- **Architectures** : CNN, RNN
+</div>
 
-### **BI & Analytics**
-- Excel (Tableaux croisés dynamiques, Macros)
-- Power BI
-- Visualisation : Matplotlib, Seaborn
+### 📚 **Data Science & Machine Learning**
 
-### **Bases de données**
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Architectures** : CNN, RNN, Deep Learning
+
+</div>
+
+### 📊 **BI & Analytics**
+
+<div align="center">
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A1?style=for-the-badge)
+
+</div>
+
+### 🗄️ **Bases de Données**
+
+<div align="center">
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **IA & LLM**
-- **RAG** (Retrieval-Augmented Generation)
-- **Prompt Engineering**
-- **Embeddings**
-- **Frameworks** : LangChain, Chroma, Ollama
-- **APIs** : FastAPI, Streamlit
+</div>
+
+### 🤖 **IA Avancée & LLM**
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B9D?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge)
+
+**Technologies** : RAG, Prompt Engineering, Embeddings, FastAPI, Streamlit
+
+</div>
 
 ---
 
-## 📊 Mes Projets
+## 📚 Actuellement en Apprentissage
 
-> 🔄 Projets en cours de documentation...
+<div align="center">
 
-Mes projets sont accessibles dans ma liste de repositories ci-dessous !
+🤖 Architectures avancées d'IA et LLM  
+📈 Optimisation et tuning de modèles Deep Learning  
+🔍 Techniques avancées en RAG et Prompt Engineering  
+🚀 Déploiement de solutions ML en production
 
----
-
-## 📚 Actuellement en apprentissage
-
-- 🤖 Architectures avancées d'IA et LLM
-- 📈 Optimisation de modèles de Deep Learning
-- 🔍 Techniques avancées en RAG et Prompt Engineering
+</div>
 
 ---
 
-## 🤝 Connecte-toi avec moi
+## 🎯 Mes Projets
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivia-adamah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](votre-portfolio.com)
+> 🔄 **Projets en cours de documentation...**
 
----
-
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aivilo-adamah&show_icons=true&theme=radical)
+Retrouve tous mes projets dans ma liste de repositories ! Chaque projet démontre mon expertise en data science, ML et IA.
 
 ---
 
-⭐ **N'hésite pas à explorer mes repositories et à me suivre pour les derniers projets !**
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aivilo-adamah&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aivilo-adamah&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ N'hésite pas à explorer mes repositories et à me suivre pour les derniers projets !
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aivilo-adamah.aivilo-adamah&left_color=green&right_color=red)
+
+</div>
