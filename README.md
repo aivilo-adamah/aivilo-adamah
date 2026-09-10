@@ -2,11 +2,8 @@
 <div align="center">
   
   <!-- Animation de texte -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI;BI+Analytics+%26+Insights;"
-    alt="Typing animation" 
-  />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4C8&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Enthusiast;BI+Analytics+%26+Insights" alt="Typing Animation">
+
 </div>
 
 ---
