@@ -111,7 +111,7 @@ Je suis passionnée par la science des données et l'intelligence artificielle.
 
 ## 🎯 Mes Projets
 
-Retrouve tous mes projets dans ma liste de repositories ! Chaque projet démontre mon expertise en data science, ML et IA.
+Retrouve tous mes projets dans ma liste de repositories.
 
 ---
 
